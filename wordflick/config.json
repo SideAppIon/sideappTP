@@ -3,7 +3,7 @@
     "id": "blizzard-2026",
     "enabled": true,
     "starts": "2026-11-28T00:00:00Z",
-    "ends": "2027-01-15T00:00:00Z",
+    "ends": "2026-12-16T00:00:00Z",
     "roundSeconds": 60,
     "freeRunsPerDay": 3
   }
